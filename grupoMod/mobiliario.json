@@ -57,9 +57,9 @@
             "prop": {
                 "title": "Fleximodulos",
                 "image": [
-                    "./img/mobiliario/fleximodulo/IMG_2978 copia.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2978copia.jpg",
                     "./img/mobiliario/fleximodulo/IMG_2982.jpg",
-                    "./img/mobiliario/fleximodulo/IMG_2984 copia.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2984copia.jpg",
                     "./img/mobiliario/fleximodulo/IMG_2986.jpg"
                 ]
             }
@@ -83,11 +83,14 @@
             "prop": {
                 "title": "Call Center",
                 "image": [
-                    "./img/mobiliario/Escritorios/DSC_0253.jpg",
-                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
-                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
-                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
-                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                    "./img/mobiliario/callCenters/18.jpg",
+                    "./img/mobiliario/callCenters/46bf272c-c054-41f6-903f-804923f350ac.jpg",
+                    "./img/mobiliario/callCenters/2017-11-23-PHOTO-00015298.jpg",
+                    "./img/mobiliario/callCenters/20160427_173438.jpg",
+                    "./img/mobiliario/callCenters/DSC_0009.jpg",
+                    "./img/mobiliario/callCenters/DSC_0611.jpg",
+                    "./img/mobiliario/callCenters/DSC_0640.jpg",
+                    "./img/mobiliario/callCenters/IMG_7543-HDRcopy.jpg"
                 ]
             }
         },
@@ -109,11 +112,54 @@
             "prop": {
                 "title": "Open Office  <br> (Benching) ",
                 "image": [
-                    "./img/CASAMAZA/JPEG/IMG_2127.jpg",
+                    "./img/mobiliario/openOffice/39a881a3-ee23-4356-92c1-11ac2cf1fe04.jpg",
+                    "./img/mobiliario/openOffice/da9bb604-8ead-424c-997e-7319ec65d92a.jpg",
+                    "./img/mobiliario/openOffice/HPWU9606.jpg",
+                    "./img/mobiliario/openOffice/IMG_4057.jpg",
+                    "./img/mobiliario/openOffice/IMG_8133.jpg"
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "prop": {
+                "title": "Mobiliario Especial <br> (MCA) ",
+                "image": [
+                    "./img/mobiliario/MCA/BAÑOS.jpg",
+                    "./img/mobiliario/MCA/BARRAS.jpg",
+                    "./img/mobiliario/MCA/BOOTS.jpg",
+                    "./img/mobiliario/MCA/CABINAS.jpg",
+                    "./img/mobiliario/MCA/DSC_0104.jpg",
+                    "./img/mobiliario/MCA/FOODCOURT.jpg"
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "prop": {
+                "title": "Global de Canadá  <br> (Mobiliario Exportado) ",
+                "image": [
+                    "./img/mobiliario/MCA/BAÑOS.jpg",
                     "./img/CASAMAZA/JPEG/IMG_2137.jpg",
                     "./img/CASAMAZA/JPEG/IMG_2152.jpg",
                     "./img/CASAMAZA/JPEG/IMG_2222.jpg",
                     "./img/CASAMAZA/JPEG/IMG_2237.jpg"
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "prop": {
+                "title": "Acero Inoxidable",
+                "image": [
+                    "./img/mobiliario/fotosAceroInoxidable/5cecea62c4aca.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/41lj5mWXtIL._SL500_-1.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/carro-distribucion.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/estante-inoxidable-3.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/IMG-20200117-WA0050.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/mesaConCenefa.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/mesaDeCentro.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/mesaDoble.jpg"
                 ]
             }
         }

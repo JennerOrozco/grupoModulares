@@ -1,7 +1,7 @@
 <?php
 $header = file_get_contents("./template/header.html");
 $header = str_replace("mochil", "active", $header);
-$header = str_replace("titlePage", "Grupo Modulares - Portafolio", $header);
+$header = str_replace("titlePage", "Grupo Modulares - Mobiliario", $header);
 $header = str_replace("foto1Slide", "img/bg/5.jpg", $header);
 $header = str_replace("foto2Slide", "img/bg/6.jpg", $header);
 $header = str_replace("foto3Slide", "img/bg/7.jpg", $header);

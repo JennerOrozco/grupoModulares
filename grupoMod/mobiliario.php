@@ -309,10 +309,46 @@ echo $header;
               <div class="card">
                 <img src="img/escritorios.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
-                  <span class="titleCard">Otro</span>
+                  <span class="titleCard">Open Office</span>
+                  <span class="titleCard" style="font-size:20px">(Benching)</span>
                   <div class="lineTec"></div>
                 </div>
                 <a href="./mobiliarioDescripcion.php?data=9"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="card">
+                <img src="img/escritorios.png" alt="">
+                <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
+                  <span class="titleCard">Mobiliario Especial</span>
+                  <span class="titleCard" style="font-size:20px">(MCA)</span>
+                  <div class="lineTec"></div>
+                </div>
+                <a href="./mobiliarioDescripcion.php?data=10"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="card">
+                <img src="img/escritorios.png" alt="">
+                <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
+                  <span class="titleCard">Global de Canadá</span>
+                  <span class="titleCard" style="font-size:20px">(Mobiliario Exportado)</span>
+                  <div class="lineTec"></div>
+                </div>
+                <a href="./mobiliarioDescripcion.php?data=11"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="card">
+                <img src="img/escritorios.png" alt="">
+                <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
+                  <span class="titleCard">Acero Inoxidable</span>
+                  <div class="lineTec"></div>
+                </div>
+                <a href="./mobiliarioDescripcion.php?data=12"><img class="imgOjo" src="img/ojo.png" alt=""></a>
               </div>
             </div>
 
