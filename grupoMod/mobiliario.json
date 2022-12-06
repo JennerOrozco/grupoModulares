@@ -1,0 +1,121 @@
+{
+    "Items": [
+        {
+            "id": "1",
+            "prop": {
+                "title": "Escritorios",
+                "image": [
+                    "./img/mobiliario/Escritorios/DSC_0253.jpg",
+                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
+                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
+                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
+                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "prop": {
+                "title": "Mesas de Reuniones",
+                "image": [
+                    "./img/mobiliario/mesasdereunion/11.jpg",
+                    "./img/mobiliario/mesasdereunion/38.jpg",
+                    "./img/mobiliario/mesasdereunion/coomeva_MJ_FORZE03.jpg",
+                    "./img/mobiliario/mesasdereunion/DSC_0132.JPG",
+                    "./img/mobiliario/mesasdereunion/IMG_0234.JPG"
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "prop": {
+                "title": "Archivos Móviles",
+                "image": [
+                    "./img/mobiliario/archivosmoviles/09052011284.jpg",
+                    "./img/mobiliario/archivosmoviles/DSCF6732.JPG",
+                    "./img/mobiliario/archivosmoviles/DSCF6733.JPG",
+                    "./img/mobiliario/archivosmoviles/PHOTO-2020--21-12-35-51.jpg",
+                    "./img/mobiliario/archivosmoviles/PHOTO-2022-11-18-14-31-48.jpg"
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "prop": {
+                "title": "Sillas",
+                "image": [
+                    "./img/mobiliario/",
+                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
+                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
+                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
+                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "prop": {
+                "title": "Fleximodulos",
+                "image": [
+                    "./img/mobiliario/fleximodulo/IMG_2978 copia.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2982.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2984 copia.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2986.jpg"
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "prop": {
+                "title": "Sistemas Modulares",
+                "image": [
+                    "./img/mobiliario/sistemamodular/IMG_2571.JPG",
+                    "./img/mobiliario/sistemamodular/DSC00904.JPG",
+                    "./img/mobiliario/sistemamodular/IMG_7720.JPG",
+                    "./img/mobiliario/sistemamodular/IMG_7794.JPG",
+                    "./img/mobiliario/sistemamodular/DSC_0004.jpg",
+                    "./img/mobiliario/sistemamodular/16.JPG"
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "prop": {
+                "title": "Call Center",
+                "image": [
+                    "./img/mobiliario/Escritorios/DSC_0253.jpg",
+                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
+                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
+                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
+                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "prop": {
+                "title": "Sillones y otros",
+                "image": [
+                    "./img/mobiliario/Escritorios/DSC_0253.jpg",
+                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
+                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
+                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
+                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "prop": {
+                "title": "Open Office  <br> (Benching) ",
+                "image": [
+                    "./img/CASAMAZA/JPEG/IMG_2127.jpg",
+                    "./img/CASAMAZA/JPEG/IMG_2137.jpg",
+                    "./img/CASAMAZA/JPEG/IMG_2152.jpg",
+                    "./img/CASAMAZA/JPEG/IMG_2222.jpg",
+                    "./img/CASAMAZA/JPEG/IMG_2237.jpg"
+                ]
+            }
+        }
+    ]
+}

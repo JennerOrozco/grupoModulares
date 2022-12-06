@@ -1,0 +1,71 @@
+{
+    "Items": [
+        {
+            "id": "1",
+            "prop": {
+                "title": "Cableado Estructurado",
+                "title2": "Diseñamos e instalamos de forma óptima el cableado estructural necesario para satisfacer las necesidades de conectividad de tu empresa.",
+                "image1": "./tecnologia/shutterstock_217213186.jpg",
+                "image2": "./tecnologia/shutterstock_1319513894.jpg",
+                "image3": "./tecnologia/shutterstock_446148670.jpg",
+                "text1": "Diseñamos e instalamos de forma óptima el cableado estructural necesario para satisfacer las necesidades de conectividad de tu empresa. Contamos con certificación de Siemon como instalador registrado. <div style='width: 100%;text-align: center;margin-top:25px'> <img src='./img/sie.jpg' style='width: 150px'></div> "
+            }
+        },
+        {
+            "id": "2",
+            "prop": {
+                "title": "SEGURIDAD",
+                "title2": "Diseñamos e instalamos de forma óptima el cableado estructural necesario para satisfacer las necesidades de conectividad de tu empresa.",
+                "image1": "./tecnologia/shutterstock_1847635135.jpg",
+                "image3": "./tecnologia/shutterstock_1386972467.jpg",
+                "image2": "./tecnologia/shutterstock_1847635135.jpg",
+                "image4": "./tecnologia/shutterstock_1386972467.jpg",
+                "text1": "Utilizamos la tecnología para poder brindar equipos que garanticen la seguridad física de las personas y activos que se encuentran en tu negocio. Manejamos controles de acceso, cámaras de seguridad, control de toma de temperatura, cuarto de control de cctv entre otros."
+            }
+        },
+        {
+            "id": "3",
+            "prop": {
+                "title": "Electricidad",
+                "title2": "Realizamos instalaciones eléctricas de todo tipo para la transformación de tu espacio, utilizando materiales de alta calidad con personal altamente calificado",
+                "image1": "./tecnologia/Electricista-autorizado-Benimaclet.jpeg",
+                "image2": "./tecnologia/356401_como-conseguir-clientes-trabajando-como-electricista.jpeg",
+                "image3": "./tecnologia/ezgif.com-gif-maker.jpg",
+                "text1": ""
+            }
+        },
+        {
+            "id": "4",
+            "prop": {
+                "title": "CLIMA (AIRE ACONDICIONADO)",
+                "title2": "",
+                "image1": "./tecnologia/shutterstock_407444644.jpg",
+                "image2": "./tecnologia/shutterstock_1038886198.jpg",
+                "image3": "./tecnologia/shutterstock_1516087157.jpg",
+                "text1": "Diseñamos la solución adhoc a las necesidades de nuestros clientes, para poder entregar un sistema completo de Aire acondicionado con los mejores estándares de la industria."
+            }
+        },
+        {
+            "id": "5",
+            "prop": {
+                "title": "Iluminación y Domótica.",
+                "title2": "",
+                "image1": "./tecnologia/shutterstock_1200074380.jpg",
+                "image2": "./tecnologia/shutterstock_1200074380.jpg",
+                "image3": "./tecnologia/shutterstock_1200074380.jpg",
+                "text1": "Brindamos la instalación de sistemas de iluminación y automatización para control y gestión de la iluminación de tu negocio."
+            }
+        },
+        {
+            "id": "6",
+            "prop": {
+                "title": "Asesoría y Diseño",
+                "title2": "Diseñamos e instalamos soluciones de cableado estructurado para satisfacer las necesidades de conectividad de su empresa, llave en mano.",
+                "image1": "./tecnologia/shutterstock_1080315542.jpg",
+                "image2": "./tecnologia/shutterstock_1080315542.jpg",
+                "image3": "./tecnologia/shutterstock_1080315542.jpg",
+                "text1": "Entregamos proyectos llave en mano, y diseñamos soluciones innovadoras mediante la tecnología que se adecuan a las necesidades de nuestros clientes."
+            }
+        }
+    ]
+}
