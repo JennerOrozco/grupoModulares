@@ -213,7 +213,7 @@ echo $header;
           Asesoramos, diseñamos, fabricamos, construimos e implementamos soluciones de arquitectura, mobiliario de oficina, call centers, y tecnología bajo estándares internacionales, para entregar proyectos de clase mundial.
         </div>
 
-        <img src="img/mapa2.png" alt="">
+        <img src="img/mas/bg/mapa2.png" alt="">
       </div>
 
       <span class="mainTitleTextFirst">Somos Fabricantes
@@ -229,7 +229,7 @@ echo $header;
             <div class="col-6" style="height: 300px;">
               <article class="booking-card" style="background-color: #EEEEEE;">
                 <div class="informations-container" style="flex-direction:row;flex-wrap: wrap;">
-                  <img src="img/mejor tiempo.png" alt="" style="width:100px">
+                  <img src="img/mas/iconos/mejorTiempo.png" alt="" style="width:100px">
                   <h2 style="font-size: 20px;">Mejor tiempo de respuesta</h2>
                 </div>
                 <h2 class="titleShow" style="font-size: 20px;margin:-85px 15px 50%">Somos fabricantes: producimos directamente
@@ -242,7 +242,7 @@ echo $header;
             <div class="col-6" style="height: 300px;">
               <article class="booking-card" style="background-color: #EEEEEE;">
                 <div class="informations-container" style="flex-direction:row; flex-wrap: wrap;">
-                  <img src="img/materia prima.png" alt="" style="width:100px">
+                  <img src="img/mas/iconos/materiaPrima.png" alt="" style="width:100px">
 
                   <h2 style="font-size: 20px;">Materia Prima Importada</h2>
                 </div>
@@ -258,7 +258,7 @@ echo $header;
             <div class="col-6" style="height: 300px;">
               <article class="booking-card" style="background-color: #EEEEEE;">
                 <div class="informations-container" style="flex-wrap: wrap;">
-                  <img src="img/tecnología.png" alt="" style="width:100px">
+                  <img src="img/mas/iconos/tecnología.png" alt="" style="width:100px">
 
                   <h2 style="font-size: 20px;">Tecnología</h2>
                 </div>
@@ -276,7 +276,7 @@ echo $header;
             <div class="col-6" style="height: 300px;">
               <article class="booking-card" style="background-color: #EEEEEE;">
                 <div class="informations-container" style="flex-direction:row;flex-wrap: wrap;">
-                  <img src="img/certificaciones.png" alt="" style="width:100px">
+                  <img src="img/mas/iconos/certificaciones.png" alt="" style="width:100px">
                   <h2 style="font-size: 20px;">Certificaciones Internacionales</h2>
                 </div>
                 <h2 class="titleShow" style="font-size: 20px;margin:-145px 15px 50%">
@@ -300,17 +300,17 @@ echo $header;
 
       <div class="paises">
 
-        <img onclick="changePais(this)" pais="Guatemala" class="active" src="img/guatemala icono.png" alt="">
+        <img onclick="changePais(this)" pais="Guatemala" class="active" src="img/mas/iconos/guatemalaIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Salvador" src="img/el salvador icono.png" alt="">
+        <img onclick="changePais(this)" pais="Salvador" src="img/mas/iconos/elSalvadorIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Honduras" src="img/honduras icono.png" alt="">
+        <img onclick="changePais(this)" pais="Honduras" src="img/mas/iconos/hondurasIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Nicaragua" src="img/nicaragua icono.png" alt="">
+        <img onclick="changePais(this)" pais="Nicaragua" src="img/mas/iconos/nicaraguaIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="CostaRica" src="img/costarica icono.png" alt="">
+        <img onclick="changePais(this)" pais="CostaRica" src="img/mas/iconos/costaricaIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Dominicana" src="img/rep dominicana icono.png" alt="">
+        <img onclick="changePais(this)" pais="Dominicana" src="img/mas/iconos/repDominicanaIcono.png" alt="">
 
       </div>
 
@@ -484,17 +484,17 @@ echo $header;
 
       <div class="paises">
 
-        <img onclick="changePais(this)" pais="Guatemala" class="active" src="img/guatemala icono.png" alt="">
+        <img onclick="changePais(this)" pais="Guatemala" class="active" src="img//mas/iconos/guatemalaIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Salvador" src="img/el salvador icono.png" alt="">
+        <img onclick="changePais(this)" pais="Salvador" src="img/mas/iconos/elSalvadorIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Honduras" src="img/honduras icono.png" alt="">
+        <img onclick="changePais(this)" pais="Honduras" src="img/mas/iconos/hondurasIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Nicaragua" src="img/nicaragua icono.png" alt="">
+        <img onclick="changePais(this)" pais="Nicaragua" src="img/mas/iconos/nicaraguaIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="CostaRica" src="img/costarica icono.png" alt="">
+        <img onclick="changePais(this)" pais="CostaRica" src="img/mas/iconos/costaricaIcono.png" alt="">
 
-        <img onclick="changePais(this)" pais="Dominicana" src="img/rep dominicana icono.png" alt="">
+        <img onclick="changePais(this)" pais="Dominicana" src="img/mas/iconos/repDominicanaIcono.png" alt="">
 
       </div>
 
@@ -512,7 +512,7 @@ echo $header;
 
 </section>
 <div class="udemy-course" style="position: fixed;top: 15px;right: 25px;margin-bottom: 0px;z-index: 150;background: rgb(219, 219, 219);border-radius: 50%;width: 70px;height: 70px;text-align: center;display: flex;align-content: stretch;justify-content: center;flex-direction: column;flex-wrap: nowrap;z-index: 123111;">
-  <a href="#secPais" style="z-index: 10!important; cursor: pointer!important; "><img src="./img/contactMe.png" style="width: 70px"></a>
+  <a href="#secPais" style="z-index: 10!important; cursor: pointer!important; "><img src="./img/utilidad/contacto/contactMe.png" style="width: 70px"></a>
 </div>
 
 

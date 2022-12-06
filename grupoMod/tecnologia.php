@@ -123,27 +123,27 @@ echo $header;
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="card">
-              <img src="img/cableado.png" alt="">
+              <img src="img/tecnologia/iconos/cableado.png" alt="">
               <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                 <span class="titleCard">Cableado</span>
                 <span class="titleCard">Estructurado</span>
                 <div class="lineTec">
                 </div>
               </div>
-              <a href="./tecnologiaDescripcion.php?data=1"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              <a href="./tecnologiaDescripcion.php?data=1"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
             </div>
           </div>
 
           <div class="col-lg-6 col-md-6 cardDerecha">
             <div class="card">
-              <img src="img/vigilancia.png" alt="">
+              <img src="img/tecnologia/iconos/vigilancia.png" alt="">
               <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                 <span class="titleCard">Sistemas de</span>
                 <span class="titleCard">vigilancia</span>
                 <div class="lineTec">
                 </div>
               </div>
-              <a href="./tecnologiaDescripcion.php?data=2"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              <a href="./tecnologiaDescripcion.php?data=2"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
             </div>
           </div>
 
@@ -153,7 +153,7 @@ echo $header;
 
           <div class="col-lg-6 col-md-6 cardIzquierda">
             <div class="card">
-              <img src="img/electricidad.png" alt="">
+              <img src="img/tecnologia/iconos/electricidad.png" alt="">
 
               <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                 <span class="titleCard">Electricidad
@@ -161,13 +161,13 @@ echo $header;
                 <div class="lineTec">
                 </div>
               </div>
-              <a href="./tecnologiaDescripcion.php?data=3"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              <a href="./tecnologiaDescripcion.php?data=3"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
             </div>
           </div>
 
           <div class="col-lg-6 col-md-6 cardDerecha">
             <div class="card">
-              <img src="img/clima.png">
+              <img src="img/tecnologia/iconos/clima.png">
               <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                 <span class="titleCard">Clima
                 </span>
@@ -176,7 +176,7 @@ echo $header;
                 <div class="lineTec" style="margin-top:10px">
                 </div>
               </div>
-              <a href="./tecnologiaDescripcion.php?data=4"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              <a href="./tecnologiaDescripcion.php?data=4"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
             </div>
           </div>
 
@@ -185,7 +185,7 @@ echo $header;
 
           <div class="col-lg-6 col-md-6 cardIzquierda">
             <div class="card">
-              <img src="img/iluminacion.png" alt="">
+              <img src="img/tecnologia/iconos/iluminacion.png" alt="">
 
               <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                 <span class="titleCard">Iluminación y Domótica
@@ -194,14 +194,14 @@ echo $header;
                 <div class="lineTec">
                 </div>
               </div>
-              <a href="./tecnologiaDescripcion.php?data=5"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              <a href="./tecnologiaDescripcion.php?data=5"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
             </div>
           </div>
 
 
           <div class="col-lg-6 col-md-6 cardDerecha">
             <div class="card">
-              <img src="img/diseño.png" alt="">
+              <img src="img/tecnologia/iconos/diseño.png" alt="">
 
               <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                 <span class="titleCard">Asesoría y Diseño
@@ -209,7 +209,7 @@ echo $header;
                 <div class="lineTec">
                 </div>
               </div>
-              <a href="./tecnologiaDescripcion.php?data=6"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+              <a href="./tecnologiaDescripcion.php?data=6"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
             </div>
           </div>
         </div>
@@ -235,7 +235,7 @@ echo $header;
 </section>
 
 <div class="udemy-course" style="position: fixed;top: 15px;right: 25px;margin-bottom: 0px;z-index: 150;background: rgb(219, 219, 219);border-radius: 50%;width: 70px;height: 70px;text-align: center;display: flex;align-content: stretch;justify-content: center;flex-direction: column;flex-wrap: nowrap;z-index: 123111;">
-  <a onclick="window.open( 'https://share.ebforms.com/6651974601146368', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500')" target="_blank" style="z-index: 10!important; cursor: pointer!important; "><img src="./img/contactMe.png" style="width: 70px"></a>
+  <a onclick="window.open( 'https://share.ebforms.com/6651974601146368', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500')" target="_blank" style="z-index: 10!important; cursor: pointer!important; "><img src="./img/utilidad/contacto/contactMe.png" style="width: 70px"></a>
 </div>
 
 <?php

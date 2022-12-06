@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="icon" href="./img/Logo.png" type="image/x-icon">
+  <link rel="icon" href="./img/utilidad/header/Logo.png" type="image/x-icon">
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,900">
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/fonts.css">
@@ -161,7 +161,7 @@
 <body>
   <div id="showPC" class="hidden" style="height: 100vh">
     <div class="hiA" style=" width: 300px;margin-right: 80px; height: 250px;text-align: -webkit-center">
-      <img src="./img/Logo.png" style="    width: 250px;    height: 200px;" />
+      <img src="./img/utilidad/header/Logo.png" style="    width: 250px;    height: 200px;" />
     </div>
     <div class="showLine" style="width: 10px;    height: 150px;    border-left: solid;    margin-bottom: 50px">
     </div>
@@ -191,7 +191,7 @@
             align-items: center;margin-top: 20px;
             ">
       <div style="border-bottom: solid;    width: 50%;    padding-bottom: 20px;    text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
-        <img class="" src="./img/Logo.png" style=" width: 170px;    height: 140px" />
+        <img class="" src="./img/utilidad/header/Logo.png" style=" width: 170px;    height: 140px" />
       </div>
       <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
         <style>
@@ -250,7 +250,7 @@
           <div class="col-6">
             <a href="./arquitectura.php">
               <div style="background-color: #EEE;">
-                <img src="./img/HOME MOBILE GRUPO MODULARES-07.png" alt="">
+                <img src="./img/index/homeMobileGrupoModulares-07.png" alt="">
                 <h3>Arquitectura</h3>
               </div>
             </a>
@@ -258,7 +258,7 @@
           <div class="col-6">
             <a href="./mobiliario.php">
               <div style="background-color: #EEE;">
-                <img src="./img/HOME MOBILE GRUPO MODULARES-08.png" alt="">
+                <img src="./img/index/homeMobileGrupoModulares-08.png" alt="">
                 <h3>Mobiliario</h3>
               </div>
             </a>
@@ -266,7 +266,7 @@
           <div class="col-6">
             <a href="./tecnologia.php">
               <div style="background-color: #EEE;">
-                <img src="./img/HOME MOBILE GRUPO MODULARES-11.png" alt="">
+                <img src="./img/index/homeMobileGrupoModulares-11.png" alt="">
                 <h3>Tecnologia</h3>
               </div>
             </a>
@@ -274,7 +274,7 @@
           <div class="col-6">
             <a href="./portafolio.php">
               <div style="background-color: #EEE;">
-                <img src="./img/HOME MOBILE GRUPO MODULARES-12.png" alt="">
+                <img src="./img/index/homeMobileGrupoModulares-12.png" alt="">
                 <h3>Portafolio</h3>
               </div>
             </a>
@@ -282,7 +282,7 @@
           <div class="col-6">
             <a href="./mas.php">
               <div style="background-color: #EEE;">
-                <img src="./img/HOME MOBILE GRUPO MODULARES-15.png" alt="">
+                <img src="./img/index/homeMobileGrupoModulares-15.png" alt="">
                 <h3 class="texto" style="color:#C7D818;line-height: .8;">+</h3>
               </div>
             </a>

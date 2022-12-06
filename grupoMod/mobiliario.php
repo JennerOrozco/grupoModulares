@@ -206,24 +206,24 @@ echo $header;
           <div class="row">
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/escritorios.png" alt="">
+                <img src="img/mobiliario/iconos/escritorios.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Escritorios</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=1"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=1"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/mesas.png" alt="">
+                <img src="img/mobiliario/iconos/mesas.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Mesas de</span>
                   <span class="titleCard">Reuniones</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=2"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=2"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
@@ -233,24 +233,24 @@ echo $header;
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/archivos.png" alt="">
+                <img src="img/mobiliario/iconos/archivos.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Archivos</span>
                   <span class="titleCard">Móviles</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=3"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=3"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/sillas.png" alt="">
+                <img src="img/mobiliario/iconos/sillas.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Sillas</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=4"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=4"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
@@ -259,96 +259,96 @@ echo $header;
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/fleximodulos.png" alt="">
+                <img src="img/mobiliario/iconos/fleximodulos.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Fleximodulos</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=5"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=5"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/sistemas modulares.png" alt="">
+                <img src="img/mobiliario/iconos/sistemasModulares.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Sistemas Modulares</span>
                   <span class="titleCard" style="font-size:20px">Call center - Acero Inox</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=6"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=6"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/escritorios.png" alt="">
+                <img src="img/mobiliario/iconos/callCenter.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Call Center</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=7"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=7"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/escritorios.png" alt="">
+                <img src="img/mobiliario/iconos/sillonesOtros.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Sillones y otros</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=8"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=8"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/escritorios.png" alt="">
+                <img src="img/mobiliario/iconos/openOffice.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Open Office</span>
-                  <span class="titleCard" style="font-size:20px">(Benching)</span>
+                  <span class="titleCard" style="font-size:20px">Benching</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=9"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=9"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/escritorios.png" alt="">
+                <img src="img/mobiliario/iconos/mobiliarioEspecial.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Mobiliario Especial</span>
-                  <span class="titleCard" style="font-size:20px">(MCA)</span>
+                  <span class="titleCard" style="font-size:20px">MCA</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=10"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=10"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/escritorios.png" alt="">
+                <img src="img/mobiliario/iconos/globalDeCanadá.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Global de Canadá</span>
-                  <span class="titleCard" style="font-size:20px">(Mobiliario Exportado)</span>
+                  <span class="titleCard" style="font-size:20px">Mobiliario Exportado</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=11"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=11"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/escritorios.png" alt="">
+                <img src="img/mobiliario/iconos/aceroInox-2.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Acero Inoxidable</span>
                   <div class="lineTec"></div>
                 </div>
-                <a href="./mobiliarioDescripcion.php?data=12"><img class="imgOjo" src="img/ojo.png" alt=""></a>
+                <a href="./mobiliarioDescripcion.php?data=12"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
@@ -381,7 +381,7 @@ echo $header;
 
 </section>
 <div class="udemy-course" style="position: fixed;top: 15px;right: 25px;margin-bottom: 0px;z-index: 150;background: rgb(219, 219, 219);border-radius: 50%;width: 70px;height: 70px;text-align: center;display: flex;align-content: stretch;justify-content: center;flex-direction: column;flex-wrap: nowrap;z-index: 123111;">
-  <a href="#secPais" style="z-index: 10!important; cursor: pointer!important; "><img src="./img/contactMe.png" style="width: 70px"></a>
+  <a href="#secPais" style="z-index: 10!important; cursor: pointer!important; "><img src="./img/utilidad/contacto/contactMe.png" style="width: 70px"></a>
 </div>
 
 <script type="text/javascript">
