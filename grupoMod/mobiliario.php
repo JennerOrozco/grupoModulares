@@ -274,7 +274,7 @@ echo $header;
                 <img src="img/mobiliario/iconos/sistemasModulares.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Sistemas Modulares</span>
-                  <span class="titleCard" style="font-size:20px">Call center - Acero Inox</span>
+                  <span class="titleCard" style="font-size:20px">Aceros Inox</span>
                   <div class="lineTec"></div>
                 </div>
                 <a href="./mobiliarioDescripcion.php?data=6"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
@@ -282,7 +282,7 @@ echo $header;
             </div>
 
             <div class="col-lg-6">
-              <div class="card">
+              <div class="card" style="padding-top: 90px;">
                 <img src="img/mobiliario/iconos/callCenter.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Call Center</span>
@@ -306,7 +306,7 @@ echo $header;
 
 
             <div class="col-lg-6">
-              <div class="card">
+              <div class="card" style="padding-top: 100px;">
                 <img src="img/mobiliario/iconos/openOffice.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Open Office</span>
@@ -319,7 +319,7 @@ echo $header;
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/mobiliario/iconos/mobiliarioEspecial.png" alt="">
+                <img src="img/mobiliario/iconos/mobiliarioEspecial.png" alt="" style="width: 220px;">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Mobiliario Especial</span>
                   <span class="titleCard" style="font-size:20px">MCA</span>
@@ -342,8 +342,8 @@ echo $header;
             </div>
 
             <div class="col-lg-6">
-              <div class="card">
-                <img src="img/mobiliario/iconos/aceroInox-2.png" alt="">
+              <div class="card" style="padding-top: 80px;">
+                <img src="img/mobiliario/iconos/aceroInox-2.png" alt="" style="max-width: 30%;">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Acero Inoxidable</span>
                   <div class="lineTec"></div>

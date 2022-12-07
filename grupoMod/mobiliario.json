@@ -44,7 +44,6 @@
             "prop": {
                 "title": "Sillas",
                 "image": [
-                    "./img/mobiliario/",
                     "./img/mobiliario/Escritorios/DSC_0264.jpg",
                     "./img/mobiliario/Escritorios/DSCF0509.JPG",
                     "./img/mobiliario/Escritorios/DSCF1047.jpg",
@@ -155,7 +154,7 @@
                     "./img/mobiliario/fotosAceroInoxidable/5cecea62c4aca.jpg",
                     "./img/mobiliario/fotosAceroInoxidable/41lj5mWXtIL._SL500_-1.jpg",
                     "./img/mobiliario/fotosAceroInoxidable/carro-distribucion.jpg",
-                    "./img/mobiliario/fotosAceroInoxidable/estante-inoxidable-3.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/estante-inoxidable-3.png",
                     "./img/mobiliario/fotosAceroInoxidable/IMG-20200117-WA0050.jpg",
                     "./img/mobiliario/fotosAceroInoxidable/mesaConCenefa.jpg",
                     "./img/mobiliario/fotosAceroInoxidable/mesaDeCentro.jpg",
