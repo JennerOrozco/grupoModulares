@@ -274,7 +274,6 @@ echo $header;
                 <img src="img/mobiliario/iconos/sistemasModulares.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Sistemas Modulares</span>
-                  <span class="titleCard" style="font-size:20px">Aceros Inox</span>
                   <div class="lineTec"></div>
                 </div>
                 <a href="./mobiliarioDescripcion.php?data=6"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
@@ -282,7 +281,7 @@ echo $header;
             </div>
 
             <div class="col-lg-6">
-              <div class="card" style="padding-top: 90px;">
+              <div class="card" style="padding-top: 70px;">
                 <img src="img/mobiliario/iconos/callCenter.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Call Center</span>
