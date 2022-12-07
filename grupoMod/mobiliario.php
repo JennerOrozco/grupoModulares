@@ -309,8 +309,8 @@ echo $header;
                 <img src="img/mobiliario/iconos/openOffice.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Open Office</span>
-                  <span class="titleCard" style="font-size:20px">Benching</span>
-                  <div class="lineTec"></div>
+                  <span class="titleCard" style="font-size:20px;">Benching</span>
+                  <div class="lineTec" style="padding-top: 5px;"></div>
                 </div>
                 <a href="./mobiliarioDescripcion.php?data=9"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
@@ -318,30 +318,30 @@ echo $header;
 
             <div class="col-lg-6">
               <div class="card">
-                <img src="img/mobiliario/iconos/mobiliarioEspecial.png" alt="" style="width: 220px;">
+                <img src="img/mobiliario/iconos/mobiliarioEspecial.png" alt="" style="width: 210px;">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Mobiliario Especial</span>
                   <span class="titleCard" style="font-size:20px">MCA</span>
-                  <div class="lineTec"></div>
+                  <div class="lineTec" style="padding-top: 5px;"></div>
                 </div>
                 <a href="./mobiliarioDescripcion.php?data=10"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="card">
+              <div class="card" style="padding-top: 135px;">
                 <img src="img/mobiliario/iconos/globalDeCanadá.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Global de Canadá</span>
-                  <span class="titleCard" style="font-size:20px">Mobiliario Exportado</span>
-                  <div class="lineTec"></div>
+                  <span class="titleCard" style="font-size:20px">Mobiliario Importado</span>
+                  <div class="lineTec" style="padding-top: 5px;"></div>
                 </div>
                 <a href="./mobiliarioDescripcion.php?data=11"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
             </div>
 
             <div class="col-lg-6">
-              <div class="card" style="padding-top: 80px;">
+              <div class="card" style="padding-top: 70px;">
                 <img src="img/mobiliario/iconos/aceroInox-2.png" alt="" style="max-width: 30%;">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Acero Inoxidable</span>

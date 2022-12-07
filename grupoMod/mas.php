@@ -363,7 +363,7 @@ echo $header;
                 <h4>Ronald Mendoza </h4>
                 <h5>Gerente de Tecnología Modular</h5>
                 <h7 style="display:block">Teléfono: <a href="tel:+50230151878"> +502 3015-1878</a></h7>
-                <h7 style="display:block">Correo: <a href="mailto:echacon@modulares.com">rmendoza@modulares.com </a></h7>
+                <h7 style="display:block">Correo: <a href="mailto:rmendoza@modulares.com">rmendoza@modulares.com </a></h7>
                 <h6>Guatemala</h6>
               </div>
 
@@ -474,6 +474,7 @@ echo $header;
                 <h4>Oda García</h4>
                 <h5>Gerente País</h5>
                 <h6>Republica Dominicana</h6>
+                <h7 style="display:block">Correo: <a href="mailto:o.garcia@Iparradelcaribe.com">o.garcia@Iparradelcaribe.com </a></h7>
               </div>
             </div>
           </div>
