@@ -138,11 +138,9 @@
             "prop": {
                 "title": "Global de Canadá  <br> (Mobiliario Exportado) ",
                 "image": [
-                    "./img/mobiliario/MCA/BAÑOS.jpg",
-                    "./img/CASAMAZA/JPEG/IMG_2137.jpg",
-                    "./img/CASAMAZA/JPEG/IMG_2152.jpg",
-                    "./img/CASAMAZA/JPEG/IMG_2222.jpg",
-                    "./img/CASAMAZA/JPEG/IMG_2237.jpg"
+                    "./img/mobiliario/fotosGlobal/Concentrix.png",
+                    "./img/mobiliario/fotosGlobal/Concentrix.png",
+                    "./img/mobiliario/fotosGlobal/Concentrix.png"
                 ]
             }
         },
