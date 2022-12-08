@@ -17,43 +17,50 @@ if (
     $word["Telefono"] = $data->Telefono;
     $word["Pais"] = $data->Pais;
     $word["Mensaje"] = $data->Mensaje;
-    var_dump($data);
+
 
     try {
         if ($data->Pais == 1) {
+            $word["Pais"] = "Guatemala";
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "echacon@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "rmendoza@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
         }
         if ($data->Pais == 2) {
+            $word["Pais"] = "El Salvador";
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "jlopez@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
         }
         if ($data->Pais == 3) {
+            $word["Pais"] = "Honduras";
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "lmaradiaga@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
-            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "aramirez@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
         }
         if ($data->Pais == 4) {
+            $word["Pais"] = "Nicaragua";
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "cporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
         }
         if ($data->Pais == 5) {
-            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "echacon@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
-            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
-            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "rmendoza@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
-            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
-        }
-        if ($data->Pais == 6) {
+            $word["Pais"] = "Costa Rica";
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "aarana@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
         }
+        if ($data->Pais == 6) {
+            $word["Pais"] = "Republica Dominicana";
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "o.garcia@iparradelcaribe.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "scuello@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
+        }
         if ($data->Pais == 7) {
+            $word["Pais"] = "Otro";
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "echacon@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "rmendoza@modulares.com", "Contacto Grupo Modular" . $data->Nombre);

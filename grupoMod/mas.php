@@ -344,27 +344,27 @@ echo $header;
                 <h4>Fernando Portocarrero</h4>
                 <h5>Socio Fundador</h5>
                 <h6>Guatemala</h6>
+                <h7 style="display:block">Correo: <a href="mailto:fporto@modulares.com"> fporto@modulares.com </a></h7>
               </div>
             </div>
-            <div class="row" id="segundos">
+            <div class="row" id="segundos" style="padding-top: 20px;">
               <div class="col-6">
                 <div class="img" style="background-image: url(./img/Perfil/Eduardo.jpg);" alt="">
                 </div>
                 <h4>Eduardo Chacón</h4>
                 <h5>Gerente Comercial</h5>
+                <h6>Guatemala</h6>
                 <h7 style="display:block">Teléfono: <a href="tel:+50242110059"> +502 4211-0059</a></h7>
                 <h7 style="display:block">Correo: <a href="mailto:echacon@modulares.com"> echacon@modulares.com </a></h7>
-                <h6>Guatemala</h6>
-
               </div>
               <div class="col-6">
                 <div class="img" style="background-image: url(./img/Perfil/Ronald.jpg);" alt="">
                 </div>
                 <h4>Ronald Mendoza </h4>
                 <h5>Gerente de Tecnología Modular</h5>
+                <h6>Guatemala</h6>
                 <h7 style="display:block">Teléfono: <a href="tel:+50230151878"> +502 3015-1878</a></h7>
                 <h7 style="display:block">Correo: <a href="mailto:rmendoza@modulares.com">rmendoza@modulares.com </a></h7>
-                <h6>Guatemala</h6>
               </div>
 
             </div>
@@ -385,6 +385,7 @@ echo $header;
                 <h4>Jorge López</h4>
                 <h5>Gerente General de país</h5>
                 <h6>El Salvador</h6>
+                <h7 style="display:block">Correo: <a href="mailto:jlopez@modulares.com"> jlopez@modulares.com </a></h7>
               </div>
             </div>
           </div>
@@ -404,6 +405,7 @@ echo $header;
                 <h4>Alexis Ramírez</h4>
                 <h5>Socio Director</h5>
                 <h6>Honduras</h6>
+                <h7 style="display:block">Correo: <a href="mailto:aramirez@modulares.com"> aramirez@modulares.com </a></h7>
               </div>
               <div class="col-6">
                 <div class="img" style="background-image: url(./img/Perfil/maradiaga.jpeg);" alt="">
@@ -411,6 +413,7 @@ echo $header;
                 <h4>Luis Fernando Maradiaga</h4>
                 <h5>Gerente Comercial</h5>
                 <h6>Honduras</h6>
+                <h7 style="display:block">Correo: <a href="mailto:lmaradiaga@modulares.com"> lmaradiaga@modulares.com </a></h7>
               </div>
             </div>
           </div>
@@ -430,6 +433,7 @@ echo $header;
                 <h4>Carlos Portocarrero</h4>
                 <h5>Socio Director de país</h5>
                 <h6>Nicaragua</h6>
+                <h7 style="display:block">Correo: <a href="mailto:cporto@modulares.com"> cporto@modulares.com </a></h7>
               </div>
             </div>
           </div>
@@ -446,6 +450,7 @@ echo $header;
                 <h4>Anwar Arana</h4>
                 <h5>Gerente General de país</h5>
                 <h6>Costa Rica</h6>
+                <h7 style="display:block">Correo: <a href="mailto:aarana@modulares.com"> aarana@modulares.com </a></h7>
               </div>
             </div>
           </div>
@@ -467,6 +472,7 @@ echo $header;
                 <h4>Sócrates Cuello</h4>
                 <h5>Socio Director</h5>
                 <h6>Republica Dominicana</h6>
+                <h7 style="display:block">Correo: <a href="mailto:scuello@modulares.com"> scuello@modulares.com </a></h7>
               </div>
               <div class="col-6">
                 <div class="img" style="background-image: url(./img/Perfil/CostaRica.jpg);" alt="">
@@ -483,7 +489,7 @@ echo $header;
 
 
 
-      <div class="paises">
+      <div class="paises" style="margin-top:40px">
 
         <img onclick="changePais(this)" pais="Guatemala" class="active" src="img//mas/iconos/guatemalaIcono.png" alt="">
 
