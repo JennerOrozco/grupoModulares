@@ -62,8 +62,15 @@ if (
         if ($data->Pais == 7) {
             $word["Pais"] = "Otro";
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "echacon@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
-            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "rmendoza@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "jlopez@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "lmaradiaga@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "aramirez@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "cporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "aarana@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "o.garcia@iparradelcaribe.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "scuello@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
+            $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "fporto@modulares.com", "Contacto Grupo Modular" . $data->Nombre);
             $responseEmail = sendMailFunction(__DIR__ . "/htmlTemplate/contactenos.html", $word,  "grupomodulares@fenixmedia.org", "Contacto Grupo Modular" . $data->Nombre);
         }
 
