@@ -1,6 +1,6 @@
 <?php
 $header = file_get_contents("./template/header.html");
-$header = str_replace("techno", "active", $header);
+$header = str_replace("tchno", "active", $header);
 $header = str_replace("titlePage", "Grupo Modulares - Tecnologia", $header);
 $header = str_replace("foto1Slide", "img/bg/8.jpeg", $header);
 $header = str_replace("foto2Slide", "img/bg/9.jpeg", $header);
