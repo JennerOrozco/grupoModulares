@@ -209,7 +209,7 @@ echo $header;
                 <img src="img/mobiliario/iconos/escritorios.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Desks</span>
-                  <div class="lineTec"></div>
+                  <div class="lineTec" style="padding-top: 5px;"></div>
                 </div>
                 <a href="./en-mobiliarioDescripcion.php?data=1"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
@@ -220,7 +220,7 @@ echo $header;
                 <img src="img/mobiliario/iconos/mesas.png" alt="">
                 <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
                   <span class="titleCard">Meeting Tables</span>
-                  <div class="lineTec"></div>
+                  <div class="lineTec" style="padding-top: 5px;"></div>
                 </div>
                 <a href="./en-mobiliarioDescripcion.php?data=2"><img class="imgOjo" src="img/utilidad/cards/ojo.png" alt=""></a>
               </div>
