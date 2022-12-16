@@ -1,0 +1,170 @@
+{
+    "Items": [
+        {
+            "id": "1",
+            "prop": {
+                "title": "Desks",
+                "image": [
+                    "./img/mobiliario/Escritorios/DSC_0253.jpg",
+                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
+                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
+                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
+                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "prop": {
+                "title": "Meeting Tables",
+                "image": [
+                    "./img/mobiliario/mesasdereunion/11.jpg",
+                    "./img/mobiliario/mesasdereunion/38.jpg",
+                    "./img/mobiliario/mesasdereunion/coomeva_MJ_FORZE03.jpg",
+                    "./img/mobiliario/mesasdereunion/DSC_0132.JPG",
+                    "./img/mobiliario/mesasdereunion/IMG_0234.JPG"
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "prop": {
+                "title": "Filing Cabinets",
+                "image": [
+                    "./img/mobiliario/archivosmoviles/09052011284.jpg",
+                    "./img/mobiliario/archivosmoviles/DSCF6732.JPG",
+                    "./img/mobiliario/archivosmoviles/DSCF6733.JPG",
+                    "./img/mobiliario/archivosmoviles/PHOTO-2020--21-12-35-51.jpg",
+                    "./img/mobiliario/archivosmoviles/PHOTO-2022-11-18-14-31-48.jpg"
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "prop": {
+                "title": "Chairs",
+                "image": [
+                    "./img/mobiliario/Sillas/image2.jpeg",
+                    "./img/mobiliario/Sillas/image4.jpeg",
+                    "./img/mobiliario/Sillas/image8.jpeg",
+                    "./img/mobiliario/Sillas/image11.jpeg",
+                    "./img/mobiliario/Sillas/image13.jpeg"
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "prop": {
+                "title": "Folding Partitions",
+                "image": [
+                    "./img/mobiliario/fleximodulo/IMG_2978copia.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2982.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2984copia.jpg",
+                    "./img/mobiliario/fleximodulo/IMG_2986.jpg"
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "prop": {
+                "title": "Modular Systems",
+                "image": [
+                    "./img/mobiliario/sistemamodular/IMG_2571.JPG",
+                    "./img/mobiliario/sistemamodular/DSC00904.JPG",
+                    "./img/mobiliario/sistemamodular/IMG_7720.JPG",
+                    "./img/mobiliario/sistemamodular/IMG_7794.JPG",
+                    "./img/mobiliario/sistemamodular/DSC_0004.jpg",
+                    "./img/mobiliario/sistemamodular/16.JPG"
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "prop": {
+                "title": "Call Center",
+                "image": [
+                    "./img/mobiliario/callCenters/18.jpg",
+                    "./img/mobiliario/callCenters/46bf272c-c054-41f6-903f-804923f350ac.jpg",
+                    "./img/mobiliario/callCenters/2017-11-23-PHOTO-00015298.jpg",
+                    "./img/mobiliario/callCenters/20160427_173438.jpg",
+                    "./img/mobiliario/callCenters/DSC_0009.jpg",
+                    "./img/mobiliario/callCenters/DSC_0611.jpg",
+                    "./img/mobiliario/callCenters/DSC_0640.jpg",
+                    "./img/mobiliario/callCenters/IMG_7543-HDRcopy.jpg"
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "prop": {
+                "title": "Armchairs and Others",
+                "image": [
+                    "./img/mobiliario/SillonesYOtros/Colgate.jpg",
+                    "./img/mobiliario/SillonesYOtros/Concentrix.jpg",
+                    "./img/mobiliario/SillonesYOtros/Sega1.jpg",
+                    "./img/mobiliario/SillonesYOtros/Sega2.jpg",
+                    "./img/mobiliario/SillonesYOtros/Sega3.jpg"
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "prop": {
+                "title": "Open Office  <br> (Benching) ",
+                "image": [
+                    "./img/mobiliario/openOffice/39a881a3-ee23-4356-92c1-11ac2cf1fe04.jpg",
+                    "./img/mobiliario/openOffice/da9bb604-8ead-424c-997e-7319ec65d92a.jpg",
+                    "./img/mobiliario/openOffice/HPWU9606.jpg",
+                    "./img/mobiliario/openOffice/IMG_4057.jpg",
+                    "./img/mobiliario/openOffice/IMG_8133.jpg"
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "prop": {
+                "title": "Special Furniture <br> (MCA) ",
+                "image": [
+                    "./img/mobiliario/MCA/BAÑOS.jpg",
+                    "./img/mobiliario/MCA/BARRAS.jpg",
+                    "./img/mobiliario/MCA/BOOTS.jpg",
+                    "./img/mobiliario/MCA/CABINAS.jpg",
+                    "./img/mobiliario/MCA/DSC_0104.jpg",
+                    "./img/mobiliario/MCA/FOODCOURT.jpg"
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "prop": {
+                "title": "Global from Canada  <br> (Imported Furniture) ",
+                "image": [
+                    "./img/mobiliario/fotosGlobal/barista1.jpeg",
+                    "./img/mobiliario/fotosGlobal/barista2.jpeg",
+                    "./img/mobiliario/fotosGlobal/barista3.jpeg",
+                    "./img/mobiliario/fotosGlobal/AviaShowroom.jpg",
+                    "./img/mobiliario/fotosGlobal/Concentrix.jpg",
+                    "./img/mobiliario/fotosGlobal/CuatroCarrilesRecepcion.jpg",
+                    "./img/mobiliario/fotosGlobal/CuatroCarrilesSala.jpg",
+                    "./img/mobiliario/fotosGlobal/series_intellibeam_01_2019.jpg"
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "prop": {
+                "title": "Stainless steel",
+                "image": [
+                    "./img/mobiliario/fotosAceroInoxidable/5cecea62c4aca.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/41lj5mWXtIL._SL500_-1.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/carro-distribucion.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/estante-inoxidable-3.png",
+                    "./img/mobiliario/fotosAceroInoxidable/IMG-20200117-WA0050.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/mesaConCenefa.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/mesaDeCentro.jpg",
+                    "./img/mobiliario/fotosAceroInoxidable/mesaDoble.jpg"
+                ]
+            }
+        }
+    ]
+}

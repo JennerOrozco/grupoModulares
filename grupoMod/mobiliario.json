@@ -44,10 +44,11 @@
             "prop": {
                 "title": "Sillas",
                 "image": [
-                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
-                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
-                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
-                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                    "./img/mobiliario/Sillas/image2.jpeg",
+                    "./img/mobiliario/Sillas/image4.jpeg",
+                    "./img/mobiliario/Sillas/image8.jpeg",
+                    "./img/mobiliario/Sillas/image11.jpeg",
+                    "./img/mobiliario/Sillas/image13.jpeg"
                 ]
             }
         },
@@ -98,11 +99,11 @@
             "prop": {
                 "title": "Sillones y otros",
                 "image": [
-                    "./img/mobiliario/Escritorios/DSC_0253.jpg",
-                    "./img/mobiliario/Escritorios/DSC_0264.jpg",
-                    "./img/mobiliario/Escritorios/DSCF0509.JPG",
-                    "./img/mobiliario/Escritorios/DSCF1047.jpg",
-                    "./img/mobiliario/Escritorios/IMG_7710.JPG"
+                    "./img/mobiliario/SillonesYOtros/Colgate.jpg",
+                    "./img/mobiliario/SillonesYOtros/Concentrix.jpg",
+                    "./img/mobiliario/SillonesYOtros/Sega1.jpg",
+                    "./img/mobiliario/SillonesYOtros/Sega2.jpg",
+                    "./img/mobiliario/SillonesYOtros/Sega3.jpg"
                 ]
             }
         },
@@ -136,11 +137,16 @@
         {
             "id": "11",
             "prop": {
-                "title": "Global de Canadá  <br> (Mobiliario Exportado) ",
+                "title": "Global de Canadá  <br> (Mobiliario Importado) ",
                 "image": [
                     "./img/mobiliario/fotosGlobal/barista1.jpeg",
                     "./img/mobiliario/fotosGlobal/barista2.jpeg",
-                    "./img/mobiliario/fotosGlobal/barista3.jpeg"
+                    "./img/mobiliario/fotosGlobal/barista3.jpeg",
+                    "./img/mobiliario/fotosGlobal/AviaShowroom.jpg",
+                    "./img/mobiliario/fotosGlobal/Concentrix.jpg",
+                    "./img/mobiliario/fotosGlobal/CuatroCarrilesRecepcion.jpg",
+                    "./img/mobiliario/fotosGlobal/CuatroCarrilesSala.jpg",
+                    "./img/mobiliario/fotosGlobal/series_intellibeam_01_2019.jpg"
                 ]
             }
         },

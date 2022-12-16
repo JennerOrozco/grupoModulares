@@ -1,0 +1,71 @@
+{
+    "Items": [
+        {
+            "id": "1",
+            "prop": {
+                "title": "Structured Cabling",
+                "title2": "We optimally design and install the necessary structural cabling to meet the connectivity needs of your company.",
+                "image1": "./tecnologia/shutterstock_217213186.jpg",
+                "image2": "./tecnologia/shutterstock_1319513894.png",
+                "image3": "./tecnologia/shutterstock_446148670.png",
+                "text1": "We optimally design and install the necessary structural cabling to meet the connectivity needs of your company. We are certified by Siemon as a registered installer. <div style='width: 100%;text-align: center;margin-top:25px'> <img src='./img/tecnologia/sie.jpg' style='width: 150px'></div> "
+            }
+        },
+        {
+            "id": "2",
+            "prop": {
+                "title": "SECURITY",
+                "title2": "We optimally design and install the necessary structural cabling to meet the connectivity needs of your company.",
+                "image1": "./tecnologia/shutterstock_1847635135.png",
+                "image3": "./tecnologia/shutterstock_1386972467.png",
+                "image2": "./tecnologia/shutterstock_1847635135.png",
+                "image4": "./tecnologia/shutterstock_1386972467.png",
+                "text1": "We use technology to be able to provide equipment that guarantees the physical safety of the people and assets that are in your business. We handle access controls, security cameras, temperature control, cctv control room among others."
+            }
+        },
+        {
+            "id": "3",
+            "prop": {
+                "title": "Electricity",
+                "title2": "We carry out electrical installations of all kinds for the transformation of your space, using high quality materials with highly qualified personnel.",
+                "image1": "./tecnologia/retecnologiagrupomodulares/Electricista-autorizado-Benimaclet.jpeg",
+                "image2": "./tecnologia/retecnologiagrupomodulares/356401_como-conseguir-clientes-trabajando-como-electricista.jpeg",
+                "image3": "./tecnologia/retecnologiagrupomodulares/ezgif.com-gif-maker.jpg",
+                "text1": ""
+            }
+        },
+        {
+            "id": "4",
+            "prop": {
+                "title": "CLIMATE (AIR CONDITIONING)",
+                "title2": "",
+                "image1": "./tecnologia/shutterstock_407444644.png",
+                "image2": "./tecnologia/shutterstock_1038886198.png",
+                "image3": "./tecnologia/retecnologiagrupomodulares/shutterstock_1516087157.jpg",
+                "text1": "We design the ad hoc solution to the needs of our clients, in order to deliver a complete air conditioning system with the best industry standards."
+            }
+        },
+        {
+            "id": "5",
+            "prop": {
+                "title": "Lighting and Home Automation.",
+                "title2": "",
+                "image1": "./tecnologia/shutterstock_1200074380.png",
+                "image2": "./tecnologia/retecnologiagrupomodulares/shutterstock_1080315542.jpg",
+                "image3": "./tecnologia/shutterstock_1200074380.png",
+                "text1": "We provide the installation of lighting and automation systems to control and manage the lighting of your business."
+            }
+        },
+        {
+            "id": "6",
+            "prop": {
+                "title": "Consulting and Design",
+                "title2": "We design and install turnkey structured cabling solutions to meet the connectivity needs of your company.",
+                "image1": "./tecnologia/retecnologiagrupomodulares/shutterstock_407444644.jpg",
+                "image2": "./tecnologia/shutterstock_1080315542.jpg",
+                "image3": "./tecnologia/shutterstock_1080315542.jpg",
+                "text1": "We deliver turnkey projects, and design innovative solutions through technology that adapt to the needs of our clients."
+            }
+        }
+    ]
+}

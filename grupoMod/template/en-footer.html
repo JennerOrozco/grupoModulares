@@ -1,0 +1,248 @@
+<!-- CONTACTENOS-->
+<section class="section bg-default">
+    <div class="container">
+        <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
+            <span style="font-size: 60px;    font-weight: 600; color: black;">Contact Us
+            </span>
+            <span class="mainTitleTextSecond" style="color: black;">SELECT A COUNTRY
+            </span>
+            <div style="border-bottom: 4px solid #C7D818;width: 40px;    margin-top: -10px;">
+            </div>
+        </div>
+
+        <div style="text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
+            <style>
+                .mapaIMG {
+                    width: 70%;
+                    height: 500px;
+                }
+
+                @media (max-width: 1000px) {
+                    .mapaIMG {
+                        width: 70%;
+                        height: 300px;
+                    }
+
+                }
+            </style>
+            <div class="mapaIMG">
+                <img class="mapaIMG" style="height: 100%;width: 100%;" src="img/utilidad/footer/mapa.png" alt="">
+                <style>
+                    .guatemala {
+                        position: relative;
+                        width: 5%;
+                        height: 8%;
+                        color: none;
+                        background: bottom;
+                        border: white;
+                        color: #014460;
+                    }
+
+                    .col-sm-12 input,
+                    .col-sm-12 select,
+                    textarea {
+                        font-size: 18px;
+                    }
+
+                    .tooltip-inner {
+                        max-width: 200px;
+                        padding: 3px 8px;
+                        color: #fff;
+                        text-align: center;
+                        background-color: #014460;
+                        border-radius: .25rem;
+                    }
+
+                    .tooltip.bs-tooltip-auto[x-placement^=bottom] .arrow::before,
+                    .tooltip.bs-tooltip-bottom .arrow::before {
+                        margin-left: -3px;
+                        content: "";
+                        border-width: 0 5px 5px;
+                        border-bottom-color: #014460;
+                    }
+                </style>
+
+                <button onclick="cambiarPais(this)" style="bottom: 74%;left: -25%;z-index: 15000;" type="button"
+                    class="guatemala" data-toggle="tooltip" data-placement="top" title="<b>Guatemala</b><br><br> 1 ave. 2-51 interior 16 zona 1, Boca del Monte, Villa Canales, Guatemala.
+                    <br><br>PBX: 502 2429-7800" data-html="true" pais="1">
+                </button>
+
+
+
+
+                <button data-html="true" title="<b>El Salvador</b><br><br>Bulevar del Hipódromo #470B, colonia San Benito, San Salvador
+                    <br><br>PBX (503) 2248 - 3469 /(503) 2248 - 3416" onclick="cambiarPais(this)"
+                    style="bottom: 61%;left: -20%;z-index: 15000;" type="button" class="guatemala" data-toggle="tooltip"
+                    data-placement="top" pais="2">
+                </button>
+                <button data-html="true" title="<b>Honduras</b><br><br>Honduras business center, terravista plaza 10mo Nivel barrio Rio de piedras, 10 Calle 23 ave.
+                    <br><br>PBX: (504) 2544 - 1232 / (504) 9999 - 8346 <hr><br>Tegucigalpa MDC, Bulevar Morazan, Edificio Classic, segundo Nivel, contiguo a McDonald's.
+                    <br><br>PBX: (504) 8773 - 0904" onclick="cambiarPais(this)"
+                    style="bottom: 71%;    left: -11%;z-index: 15000;" type="button" class="guatemala"
+                    data-toggle="tooltip" data-placement="top" pais="3">
+                </button>
+                <button data-html="true" title="<b>Nicaragua</b><br><br>Lotería Nacional 180m al Sur, Centro Comercial Camino de Oriente
+                    <br><br>PBX (505) 2270-3604 / (505) 8882-0753" onclick="cambiarPais(this)"
+                    style="bottom: 57%;    left: -04%;z-index: 15000;" type="button" class="guatemala"
+                    data-toggle="tooltip" data-placement="top" pais="4">
+                </button>
+                <button data-html="true" title="<b>Costa Rica</b><br><br>San José Lourdes de Montes de Oca, de Fundación CR Canadá 50m O y 50m S
+                    <br><br>PBX (506) 4030-1693 / (506) 8836-9801" onclick="cambiarPais(this)"
+                    style="bottom: 28%;left: -3%;z-index: 15000;" type="button" class="guatemala" data-toggle="tooltip"
+                    data-placement="top" pais="5">
+                </button>
+
+                <button data-html="true" title="<b>Iparra Del Caribe Representatives in:</b><br><b>Dominican Republic</b><br><br>Gustavo Mejia Ricart esq. Lope de Vega, Santo Domingo Distrito Nacional.
+                    <br><br>PBX (809) 563-6165 ext. 240" onclick="cambiarPais(this)"
+                    style="bottom: 89%;left: -1%; z-index: 15000;" type="button" class="guatemala" data-toggle="tooltip"
+                    data-placement="top" pais="6">
+                </button>
+            </div>
+        </div>
+        <script>
+            function cambiarPais(bottom) {
+                document.getElementById("Pais").value = parseInt(bottom.getAttribute("pais"));
+
+            }
+        </script>
+
+
+
+        <div id="secPais" class="row" style="background-color: #EEEEEE;margin-bottom: 35px;place-content: center;">
+
+
+
+            <div class="col-sm-12 col-lg-6" style="padding: 50px;">
+                <div class="row row-5 justify-content-between">
+                    <form onsubmit="return validateFormContact(this)">
+                        <div class="col-sm-12">
+                            <input type="text" placeholder="Full Name" name="Name" id="Nombre" required>
+                            <input type="text" placeholder="Email" name="Email" id="Email" required>
+                            <input type="text" placeholder="Business" name="Company" id="Empresa" required>
+                            <input type="text" placeholder="Phone" name="Phone" id="Teléfono" required>
+                            <select class="form-select" aria-label="Default select example" id="Pais" required>
+                                <option selected>Select a country.</option>
+                                <option value="1">Guatemala</option>
+                                <option value="2">El Salvador</option>
+                                <option value="3">Honduras</option>
+                                <option value="4">Nicaragua</option>
+                                <option value="6">Dominican Republic</option>
+                                <option value="5">Costa Rica</option>
+                                <option value="7">Other</option>
+                            </select>
+                        </div>
+
+                </div>
+            </div>
+            <div class="col-sm-12 col-lg-6" style="padding: 50px;">
+                <div class="col-sm-12">
+                    <textarea name="Message" id="Mensaje" cols="60" rows="10" placeholder="Write your message here"
+                        required></textarea>
+                </div>
+            </div>
+            <button class="button button-primary button-pipaluk" type="submit"
+                style="margin-top:0px;margin-bottom: 15px;top: 0px;">Send</button>
+            </form>
+        </div>
+
+
+
+    </div>
+</section>
+</div>
+
+<footer class="section footer-classic">
+    <div class="footer-inner-1">
+        <div class="container">
+            <div class="row row-40"
+                style="    text-align: -webkit-center;text-align: -moz-center;text-align: -webkit-center;">
+                <div class="col-md-12 col-lg-12">
+                    <span style="font-size: 70px;font-weight: 900;">
+                        Learn more
+                    </span>
+                    <h5 style="font-size: 30px;font-weight: 200;margin-top: -30px;">
+                        and follow us on
+                    </h5>
+
+                    <style>
+                        .SocialMedia {
+                            margin-right: 10px;
+
+                        }
+                    </style>
+
+                    <a class="SocialMedia" target="_blank" href="https://www.facebook.com/grupomodulares"><img
+                            src="img/utilidad/contacto/facebookBlanco.png" alt=""></a>
+                    <a class="SocialMedia" target="_blank" href="https://www.instagram.com/grupomodulares/"><img
+                            src="img/utilidad/contacto/instagramBlanco.png" alt=""></a>
+                    <a target="_blank" href="https://www.linkedin.com/company/grupo-modulares/"><img
+                            src="img/utilidad/contacto/linkedinBlanco.png" alt=""></a>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-inner-2">
+        <div class="container">
+            <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span>. All Rights Reserved. Design
+                by <a href="http://www.fenixmediaagency.com/">Fenix Media</a></p>
+        </div>
+    </div>
+
+
+</footer>
+</div>
+<div class="snackbars" id="form-output-global"></div>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MEYXL1SDZF"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-MEYXL1SDZF');
+</script>
+
+
+<script src="js/core.min.js"></script>
+<script src="js/script.js"></script>
+<!--coded by Starlight-->
+</body>
+<script>
+    setTimeout(() => { document.getElementById("delete").remove(); }, 1000)
+
+
+    function validateFormContact(variable) {
+
+
+        let Nombre = document.getElementById("Nombre").value;
+        let Email = document.getElementById("Email").value;
+        let Empresa = document.getElementById("Empresa").value;
+        let Telefono = document.getElementById("Teléfono").value;
+        let Pais = document.getElementById("Pais").value;
+        let Mensaje = document.getElementById("Mensaje").value;
+
+        $.ajax({
+            type: "POST",
+            url: "./api/req/email/en-sendMailContact.php",
+            data: JSON.stringify({
+                Nombre: Nombre,
+                Email: Email,
+                Empresa: Empresa,
+                Telefono: Telefono,
+                Pais: Pais,
+                Mensaje: Mensaje
+            }),
+            success: function (params) {
+                window.location.reload()
+
+            }
+        });
+        return false
+    }
+
+</script>
+
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>title</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=font1|font2|etc" type="text/css">
+    <script src="https://kit.fontawesome.com/2c7fc28a2f.js"></script>
+</head>
+<style>
+    #galleryContainer {
+        height: 500px;
+        width: 800px;
+        background: transparent;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        box-sizing: border-box;
+        position: relative;
+    }
+
+
+
+
+    #mainView {
+        height: 450px;
+        width: 450px;
+        border-radius: 5px;
+        background-color: #eb9100;
+        margin-left: 10px;
+        margin-right: 10px;
+        z-index: 1;
+        transition: all 1s;
+        background-size: cover;
+    }
+
+    #mainView:hover {
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+
+    #leftView {
+        height: 400px;
+        width: 150px;
+        opacity: 0.5;
+        border-radius: 5px;
+        transform: skewy(5deg);
+        transform-origin: top right;
+        background-color: #eb9100;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: all 1s;
+        background-size: cover;
+    }
+
+    #leftView:hover {
+        opacity: 1;
+        transition: all 1s;
+    }
+
+    #rightView {
+        height: 400px;
+        width: 150px;
+        opacity: 0.5;
+        border-radius: 5px;
+        transform: skewy(-5deg);
+        transform-origin: top left;
+        background-color: #eb9100;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: all 1s;
+        background-size: cover;
+    }
+
+    #rightView:hover {
+        opacity: 1;
+        transition: all 1s;
+    }
+
+    .navBtns {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        border: none;
+        position: absolute;
+        opacity: 0.8;
+        background-color: transparent;
+        cursor: pointer;
+        color: white;
+    }
+
+    .navBtns:hover {
+        opacity: 1;
+        transition: all 1s;
+        background-color: #eb9100;
+    }
+
+    #navLeft {
+        left: 50px;
+    }
+
+    #navRight {
+        right: 50px;
+    }
+
+    #linkTag {
+        cursor: pointer;
+        z-index: 1;
+        box-sizing: border-box;
+    }
+</style>
+
+<body>
+
+
+    <div id="galleryView">
+        <div id="galleryContainer">
+            <div id="leftView"></div>
+            <button id="navLeft" class="navBtns"><i class="fas fa-arrow-left fa-3x"></i></button>
+            <a id="linkTag">
+                <div id="mainView"></div>
+            </a>
+            <div id="rightView"></div>
+            <button id="navRight" class="navBtns"><i class="fas fa-arrow-right fa-3x"></i></button>
+        </div>
+    </div>
+
+</body>
+<script>
+
+
+    let imgObject = [
+        "https://placeimg.com/450/450/any",
+        "https://placeimg.com/450/450/animals",
+        "https://placeimg.com/450/450/architecture",
+        "https://placeimg.com/450/450/nature",
+
+    ];
+
+    let mainImg = 0;
+    let prevImg = imgObject.length - 1;
+    let nextImg = 1;
+
+    function loadGallery() {
+
+        let mainView = document.getElementById("mainView");
+        mainView.style.background = "url(" + imgObject[mainImg] + ")";
+
+        let leftView = document.getElementById("leftView");
+        leftView.style.background = "url(" + imgObject[prevImg] + ")";
+
+        let rightView = document.getElementById("rightView");
+        rightView.style.background = "url(" + imgObject[nextImg] + ")";
+
+        let linkTag = document.getElementById("linkTag")
+        linkTag.href = imgObject[mainImg];
+
+    };
+
+    function scrollRight() {
+
+        prevImg = mainImg;
+        mainImg = nextImg;
+        if (nextImg >= (imgObject.length - 1)) {
+            nextImg = 0;
+        } else {
+            nextImg++;
+        };
+        loadGallery();
+    };
+
+    function scrollLeft() {
+        nextImg = mainImg
+        mainImg = prevImg;
+
+        if (prevImg === 0) {
+            prevImg = imgObject.length - 1;
+        } else {
+            prevImg--;
+        };
+        loadGallery();
+    };
+
+    document.getElementById("navRight").addEventListener("click", scrollRight);
+    document.getElementById("navLeft").addEventListener("click", scrollLeft);
+
+    document.addEventListener('keyup', function (e) {
+        if (e.keyCode === 37) {
+            scrollLeft();
+        } else if (e.keyCode === 39) {
+            scrollRight();
+        }
+    });
+
+    loadGallery();
+
+</script>
+
+</html>
