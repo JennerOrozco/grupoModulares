@@ -173,7 +173,7 @@
         <h3>furniture</h3>
       </a>
       <a href="./en-tecnologia.php" class="showLine3">
-        <h3>tecnology</h3>
+        <h3>technology</h3>
       </a>
       <br>
       <a href="./en-portafolio.php" class="showLine4">
@@ -267,7 +267,7 @@
             <a href="./en-tecnologia.php">
               <div style="background-color: #EEE;">
                 <img src="./img/index/homeMobileGrupoModulares-11.png" alt="">
-                <h3>Tecnology</h3>
+                <h3>technology</h3>
               </div>
             </a>
           </div>

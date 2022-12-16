@@ -258,7 +258,7 @@ echo $header;
                 <div class="informations-container" style="flex-wrap: wrap;">
                   <img src="img/mas/iconos/tecnología.png" alt="" style="width:100px">
 
-                  <h2 style="font-size: 20px;">Tecnology</h2>
+                  <h2 style="font-size: 20px;">technology</h2>
                 </div>
                 <ol class="titleShow" style="flex-direction: row;font-size: 18px;
     flex-wrap: wrap;margin:-135px 15px 50%;text-align: left;font-weight:900">

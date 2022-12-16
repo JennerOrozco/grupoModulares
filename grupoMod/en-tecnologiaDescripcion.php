@@ -1,11 +1,11 @@
 <?php
 $header = file_get_contents("./template/en-header.html");
 $header = str_replace("techno", "active", $header);
-$header = str_replace("titlePage", "Grupo Modulares - Tecnology", $header);
+$header = str_replace("titlePage", "Grupo Modulares - technology", $header);
 $header = str_replace("foto1Slide", "img/bg/1.jpg", $header);
 $header = str_replace("foto2Slide", "img/bg/2.jpg", $header);
 $header = str_replace("foto3Slide", "img/bg/3.jpg", $header);
-$header = str_replace("mainTitleTexto", "tecnology", $header);
+$header = str_replace("mainTitleTexto", "technology", $header);
 echo $header;
 ?>
 
