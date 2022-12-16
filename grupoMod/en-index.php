@@ -267,7 +267,7 @@
             <a href="./en-tecnologia.php">
               <div style="background-color: #EEE;">
                 <img src="./img/index/homeMobileGrupoModulares-11.png" alt="">
-                <h3>technology</h3>
+                <h3>Technology</h3>
               </div>
             </a>
           </div>
