@@ -166,7 +166,7 @@
     <div class="showLine" style="width: 10px;    height: 150px;    border-left: solid;    margin-bottom: 50px">
     </div>
     <div style="margin-left: 80px;    display: block;margin-bottom: 10px;">
-      <a href="./arquitectura.php" class="showLine1">
+      <a href="./en-arquitectura.php" class="showLine1">
         <h3>architecture</h3>
       </a>
       <a href="./en-mobiliario.php" class="showLine2">
